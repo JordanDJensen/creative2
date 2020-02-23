@@ -4,6 +4,15 @@
     background-color: purple;
   }
 
+  div#heroResult {
+      margin-top: 75px;
+  }
+
+  #plot{
+    margin-top: 25px;
+
+  }
+
   h1{
     font-size: 20px;
   }
@@ -34,6 +43,8 @@
 
   #plot{
     margin-top: 25px;
+    margin-right: 500px;
+
   }
 
 
