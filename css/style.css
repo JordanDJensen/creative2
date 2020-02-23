@@ -61,3 +61,19 @@
 }
 
 }
+
+.footer {
+  margin-top: 25px;
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: purple;
+     color: white;
+     text-align: center;
+
+  }
+.foot-text{
+  color: white;
+  padding-top: 25px;
+}
