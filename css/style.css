@@ -1,0 +1,52 @@
+@media only screen and (max-width: 400px)  {
+
+  .nav-bg{
+    background-color: purple;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+
+  ul li{
+    list-style-type: none;
+    display: inline;
+  }
+
+  li{
+    margin:15px;
+  }
+}
+
+@media only screen and (min-width: 961px){
+
+.nav-bg{
+  background-color: purple;
+}
+
+  div#heroResult {
+      margin-top: 75px;
+  }
+
+  #subtitle{
+    font-size: 12px;
+  }
+
+  #plot{
+    margin-top: 25px;
+  }
+
+
+  ul li{
+    list-style-type: none;
+    display: inline;
+  }
+
+  .col-6.offset-lg-3.bg-content {
+    background-color: yellow;
+    margin-top: 75px;
+
+
+}
+
+}
